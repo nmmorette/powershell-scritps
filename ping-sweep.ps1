@@ -7,7 +7,7 @@
 
 param($p1)
 if (!$p1) {
-    echo "Desec Security"
+    echo "Ping Sweep"
     echo "Exemplo de uso: .\script.ps1 192.168.0"
     
     } else {
