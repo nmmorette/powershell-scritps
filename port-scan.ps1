@@ -9,7 +9,7 @@
 param($ip)
 # if(!$ip -or !$porta){ 
 if(!$ip){    
-    echo "Desec Security - Portsacan"
+    echo "Portsacan"
     echo ".\portscan.ps1 192.168.0.1"
         }else {
         $topports = 21,22,53,443,80,8080,4443,313,13,37,30000,3000,1337
