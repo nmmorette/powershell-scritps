@@ -5,6 +5,7 @@
 ### Author: Natan Morette
 ###---------------------------------------------------------------
 
+# Edit $topports with the ports you want to scan
 
 param($ip)
 # if(!$ip -or !$porta){ 
